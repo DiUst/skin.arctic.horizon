@@ -1,0 +1,1675 @@
+# Kodi Media Center language file
+# Addon Name: Horizon
+# Addon id: skin.horizon
+# Addon Provider: jurialmunkey
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: /1080i/Custom_1118_EnableRatings.xml
+msgctxt "#31000"
+msgid "Prefer numeric star rating"
+msgstr "Предпочитать числовой рейтинг"
+
+#: /1080i/DialogGameControllers.xml
+msgctxt "#31001"
+msgid "Controllers"
+msgstr "Контроллеры"
+
+#: /1080i/Includes_OSD.xml
+msgctxt "#31002"
+msgid "Finishes at"
+msgstr "Заканчивается в"
+
+#: /1080i/Custom_1118_EnableRatings.xml
+msgctxt "#31003"
+msgid "Oscars"
+msgstr "Оскар"
+
+#: /1080i/Custom_1118_EnableRatings.xml
+msgctxt "#31004"
+msgid "Metacritic"
+msgstr ""
+
+#: /1080i/Custom_1118_EnableRatings.xml
+msgctxt "#31005"
+msgid "RottenTomatoes user meter"
+msgstr "RottenTomatoes рейтинг"
+
+#: /1080i/Custom_1119_EnableInfoLists.xml
+msgctxt "#31006"
+msgid "Collection"
+msgstr "Коллекция"
+
+#: /1080i/Custom_1119_EnableInfoLists.xml
+msgctxt "#31007"
+msgid "Use online information"
+msgstr "Использовать онлайн информацию"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31008"
+msgid "Install weather fanart"
+msgstr "Установить погодный фанарт"
+
+#: /1080i/Custom_1118_EnableRatings.xml
+msgctxt "#31009"
+msgid "RottenTomatoes critics"
+msgstr "Критики RottenTomatoes"
+
+#: /1080i/Custom_1118_EnableRatings.xml
+msgctxt "#31010"
+msgid "Trakt"
+msgstr ""
+
+#: /1080i/script-skinshortcuts.xml
+msgctxt "#31011"
+msgid "Aspect"
+msgstr "Соотношение"
+
+#: /1080i/MyWeather.xml
+msgctxt "#31012"
+msgid "Weather fanart installed"
+msgstr "Установлен погодный фанарт"
+
+#: /1080i/VideoOSD.xml
+msgctxt "#31013"
+msgid "Cast of"
+msgstr "В ролях"
+
+#: /1080i/MyVideoNav.xml
+msgctxt "#31014"
+msgid "Extra fanart"
+msgstr "Дополнительный фанарт"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31015"
+msgid "Customise info dialog lists"
+msgstr "Настроить лист инфо диалогов"
+
+#: /1080i/Custom_1118_EnableRatings.xml
+msgctxt "#31016"
+msgid "TheMovieDb"
+msgstr "TheMovieDb"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31017"
+msgid "Smart shortcuts"
+msgstr "Умные ярлыки"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31018"
+msgid "Common shortcut"
+msgstr "Общий ярлык"
+
+#: /1080i/Custom_1118_EnableRatings.xml
+msgctxt "#31019"
+msgid "Hide all ratings"
+msgstr "Скрыть все оценки"
+
+#: /1080i/script-globalsearch-main.xml
+msgctxt "#31020"
+msgid "mins"
+msgstr "мин"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31021"
+msgid "Large artwork replaces seekbar"
+msgstr "Большие изображения заменяют панель поиска"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31022"
+msgid "Autoscroll widgets"
+msgstr "Автопрокрутка виджетов"
+
+#: /1080i/Includes_Items.xml
+msgctxt "#31023"
+msgid "Fullscreen"
+msgstr "Полноэкранный"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31024"
+msgid "Divider style"
+msgstr "Стиль разделителя"
+
+#: /1080i/Includes_Labels.xml
+msgctxt "#31025"
+msgid "Items"
+msgstr "Предметы"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31026"
+msgid "Logo"
+msgstr "Лого"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31027"
+msgid "Customise power menu"
+msgstr "Настроить меню выключения"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31028"
+msgid "Reset skin settings to defaults (WARNING: This will reset your home menu to skin defaults)"
+msgstr "Сбросить настройки скина до значений по умолчанию (ВНИМАНИЕ: это вернет ваше главное меню к настройкам скина по умолчанию)"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31029"
+msgid "Profile picture"
+msgstr "Изображение профиля"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31030"
+msgid "Furniture"
+msgstr ""
+
+#: /1080i/Includes_Items.xml
+msgctxt "#31031"
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+#: /1080i/Includes_Weather.xml
+msgctxt "#31032"
+msgid "Weekly forecast"
+msgstr "Еженедельный прогноз"
+
+#: /1080i/Includes_Items.xml
+msgctxt "#31033"
+msgid "Audio settings"
+msgstr "Настройки аудио"
+
+#: /1080i/Includes_Weather.xml
+msgctxt "#31034"
+msgid "Current conditions"
+msgstr "Текущие условия"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31035"
+msgid "Lock position"
+msgstr "Положение блокировки"
+
+#: /1080i/Includes_Labels.xml
+msgctxt "#31036"
+msgid "hr"
+msgstr "ч"
+
+#: /1080i/DialogSubtitles.xml
+msgctxt "#31037"
+msgid "Download subtitles"
+msgstr "Скачать субтитры"
+
+#: /1080i/Includes_Labels.xml
+msgctxt "#31038"
+msgid "Hub widget"
+msgstr "Центральный виджет"
+
+#: /1080i/script-skinshortcuts.xml
+msgctxt "#31039"
+msgid "Fullscreen widget"
+msgstr "Полноэкранный виджет"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31040"
+msgid "Menu and logo"
+msgstr "Меню и логотип"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31041"
+msgid "Media flags"
+msgstr "Медиа флаги"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31042"
+msgid "Invert colours"
+msgstr "Инвертировать цвета"
+
+#: /1080i/script-skinshortcuts.xml
+msgctxt "#31043"
+msgid "Customise widgets"
+msgstr "Настроить виджеты"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31044"
+msgid "Clock / Weather"
+msgstr "Часы / Погода"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31045"
+msgid "Trending lists"
+msgstr "Списки трендов"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31046"
+msgid "Next aired"
+msgstr "Следующий эфир"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31047"
+msgid "Next aired (Trakt)"
+msgstr "Следующий эфир (Trakt)"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31048"
+msgid "Next aired (library)"
+msgstr "Следующий эфир (библиотека)"
+
+#: /1080i/script-skinshortcuts.xml
+msgctxt "#31049"
+msgid "Customise"
+msgstr "Настроить"
+
+#: /1080i/script-skinshortcuts.xml
+msgctxt "#31050"
+msgid "Default search items"
+msgstr "Элементы поиска по умолчанию"
+
+#: /1080i/DialogVideoInfo.xml
+msgctxt "#31051"
+msgid "Similar to"
+msgstr "Похожий на"
+
+#: /1080i/DialogVideoInfo.xml
+msgctxt "#31052"
+msgid "By director"
+msgstr "Режиссер"
+
+#: /1080i/script-skinshortcuts.xml
+msgctxt "#31053"
+msgid "Choose hub widget"
+msgstr "Выберите центральный виджет"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31054"
+msgid "Hide channel name if icon is available"
+msgstr "Скрыть название канала, если значок доступен"
+
+#: /1080i/DialogVideoInfo.xml
+msgctxt "#31055"
+msgid "Cast members also feature in"
+msgstr "Актеры также присутствуют в"
+
+#: /1080i/script-skinshortcuts.xml
+msgctxt "#31056"
+msgid "Display info"
+msgstr "Показать информацию"
+
+#: /1080i/DialogVideoInfo.xml
+msgctxt "#31057"
+msgid "Films in the"
+msgstr "Фильмы в"
+
+#: /1080i/script-skinshortcuts.xml
+msgctxt "#31058"
+msgid "Customise hub widget"
+msgstr "Настроить виджет хаба"
+
+#: /1080i/DialogContextMenu.xml
+msgctxt "#31059"
+msgid "Context menu"
+msgstr "Контекстное меню"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31060"
+msgid "Menu orientation"
+msgstr "Ориентация меню"
+
+#: /shortcuts/template.xml
+msgctxt "#31061"
+msgid "Show more"
+msgstr "Показать больше"
+
+#: /shortcuts/template.xml
+msgctxt "#31062"
+msgid "Browse more items in this list"
+msgstr "Просмотреть другие элементы в этом списке"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31063"
+msgid "Background style"
+msgstr "Стиль фона"
+
+#: /1080i/Includes_Info.xml
+msgctxt "#31064"
+msgid "Manage"
+msgstr "Управление"
+
+#: /1080i/Includes_Info.xml
+msgctxt "#31065"
+msgid "Watchlist"
+msgstr "Список просмотра"
+
+#: /1080i/script-skinshortcuts.xml
+msgctxt "#31066"
+msgid "Choose fullscreen widget"
+msgstr "Выбрать полноэкранный виджет"
+
+#: /1080i/Includes_Labels.xml
+msgctxt "#31067"
+msgid "Recommendations"
+msgstr "Рекомендации"
+
+#: /1080i/Includes_Weather.xml
+msgctxt "#31068"
+msgid "Cloud cover"
+msgstr "Облачно"
+
+#: /1080i/Includes_Items.xml
+msgctxt "#31069"
+msgid "From studio"
+msgstr "Студия"
+
+#: /1080i/Includes_Items.xml
+msgctxt "#31070"
+msgid "In genre"
+msgstr "Жанр"
+
+#: /1080i/Includes_Items.xml
+msgctxt "#31071"
+msgid "From year"
+msgstr "Год"
+
+#: /1080i/DialogButtonMenu.xml
+msgctxt "#31072"
+msgid "Power menu"
+msgstr "Меню питания"
+
+#: /1080i/Includes_Items.xml
+msgctxt "#31073"
+msgid "From"
+msgstr "От"
+
+#: /1080i/Includes_Items.xml
+msgctxt "#31074"
+msgid "Starring cast members"
+msgstr "В ролях актеры"
+
+#: /1080i/Includes_Items.xml
+msgctxt "#31075"
+msgid "Keywords for"
+msgstr "Ключевые слова для"
+
+#: /1080i/Includes_Items.xml
+msgctxt "#31076"
+msgid "In lists"
+msgstr "В списках"
+
+#: /1080i/Includes_Items.xml
+msgctxt "#31077"
+msgid "Lists containing"
+msgstr "Списки, содержащие"
+
+#: /1080i/Includes_Home.xml
+msgctxt "#31078"
+msgid "More information"
+msgstr "Дополнительная информация"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31079"
+msgid "Pause when opening info dialog"
+msgstr "Пауза при открытии информационного диалога"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31080"
+msgid "Pressing \"Back\" highlights group selector"
+msgstr "Нажатие \" Назад \ "выделяет выбор группы"
+
+#: /1080i/script-skinshortcuts.xml
+msgctxt "#31081"
+msgid "Fullscreen and Hub"
+msgstr "Полноэкранный режим и хаб"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31082"
+msgid "Watched indicators"
+msgstr "Индикаторы просмотра"
+
+#: /1080i/Custom_1121_EnableIndicators.xml
+msgctxt "#31083"
+msgid "Hide all indicators"
+msgstr "Скрыть все индикаторы"
+
+#: /1080i/Includes_Labels.xml
+msgctxt "#31084"
+msgid "Aquamarine"
+msgstr "Аквамарин"
+
+#: /1080i/Custom_1116_Wizard.xml
+msgctxt "#31085"
+msgid "Enable these options for the full Arctic Horizon experience.[CR][CR][B]~ Note ~[/B][CR]Other than the colour scheme options$COMMA some of these settings might have a slight impact on the performance of the skin. This wizard can be run again as needed from \"Skin Settings > Lists and Other > Skin Setup Wizard\""
+msgstr "Включите эти параметры для полноценного использования Arctic Horizon. [CR] [CR] [B] ~ Примечание ~ [/ B] [CR] Кроме параметров цветовой схемы $ COMMA, некоторые из этих параметров могут иметь небольшое влияние на производительность скина. При необходимости этот мастер можно запустить снова, выбрав \ "Настройки скина> Списки и прочее> Мастер настройки скина \""
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31086"
+msgid "Run skin setup wizard (WARNING: This will reset skin settings to defaults)"
+msgstr "Запустить мастер настройки скина (ВНИМАНИЕ: это сбросит настройки скина на значения по умолчанию)"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31087"
+msgid "Colour overlay"
+msgstr "Цвет оверлея"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31088"
+msgid "Scrolling text effect"
+msgstr "Эффект прокрутки текста"
+
+#: /1080i/Custom_1122_EnableWallViews.xml
+msgctxt "#31089"
+msgid "Pressing down opens wall view (replaces scrollbar)"
+msgstr "Нажатие вниз открывает вид стены (заменяет полосу прокрутки)"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31090"
+msgid "Customise info dialog buttons"
+msgstr "Настройка кнопок диалогового окна информации"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31091"
+msgid "Trailer window"
+msgstr "Окно трейлера"
+
+#: /1080i/Includes_Items.xml
+msgctxt "#31092"
+msgid "View"
+msgstr "Просмотр"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31093"
+msgid "Customise viewtypes"
+msgstr "Настроить типы просмотра"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31094"
+msgid "Apply colour diffuse to icons"
+msgstr "Применить диффузный цвет к значкам"
+
+#: /1080i/Custom_1116_Wizard.xml
+msgctxt "#31095"
+msgid "Online info dialog lists"
+msgstr "Лист онлайн информации"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31096"
+msgid "Use song track-naming template"
+msgstr "Использовать шаблон наименования треков песни"
+
+#: /1080i/Includes_Home.xml
+msgctxt "#31097"
+msgid "Ends at"
+msgstr "Закончится в"
+
+#: /1080i/script-skinshortcuts.xml
+msgctxt "#31098"
+msgid "Choose widget"
+msgstr "Выбрать виджет"
+
+#: /1080i/script-skinshortcuts.xml
+msgctxt "#31099"
+msgid "Widgets"
+msgstr "Виджеты"
+
+#: /1080i/script-skinshortcuts.xml
+msgctxt "#31100"
+msgid "Content type"
+msgstr "Тип содержимого"
+
+msgctxt "#31101"
+msgid "items"
+msgstr "Пункты"
+
+msgctxt "#31102"
+msgid "min"
+msgstr "мин"
+
+msgctxt "#31103"
+msgid "Live TV"
+msgstr "ТВ"
+
+msgctxt "#31104"
+msgid "Used memory"
+msgstr "Используемая память"
+
+msgctxt "#31105"
+msgid "Spotlight"
+msgstr "Прожектор"
+
+msgctxt "#31106"
+msgid "Ends "
+msgstr "Закончится "
+
+#: /1080i/script-skinshortcuts.xml
+msgctxt "#31107"
+msgid "Item limit"
+msgstr "Лимит пунктов"
+
+#: /1080i/Includes_View_56_Banners.xml
+msgctxt "#31108"
+msgid "Big banner"
+msgstr "Большой баннер"
+
+msgctxt "#31109"
+msgid "Customise home menu"
+msgstr "Настроить главное меню"
+
+msgctxt "#31110"
+msgid "Background"
+msgstr "Фон"
+
+msgctxt "#31111"
+msgid "Display now playing video in background"
+msgstr "Отображать воспроизводимое видео в фоне"
+
+msgctxt "#31112"
+msgid "Submenu"
+msgstr "Подменю"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31113"
+msgid "Fullscreen widget path"
+msgstr "Путь к полноэкранному виджету"
+
+#: /1080i/Includes_Labels.xml
+msgctxt "#31114"
+msgid "on"
+msgstr "on"
+
+#: /1080i/Includes_Labels.xml
+msgctxt "#31115"
+msgid "Last aired"
+msgstr "Последний эфир"
+
+#: /1080i/Custom_1118_EnableRatings.xml
+msgctxt "#31116"
+msgid "Additional ratings"
+msgstr "Дополнительные оценки"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31117"
+msgid "10 seconds"
+msgstr "10 секунд"
+
+msgctxt "#31118"
+msgid "Artist slideshow"
+msgstr "Слайд-шоу артиста"
+
+msgctxt "#31119"
+msgid "Visualisation behind slideshow"
+msgstr "Визуализация слайд-шоу"
+
+msgctxt "#31120"
+msgid "Animate artist slideshow"
+msgstr "Анимировать слайд-шоу"
+
+msgctxt "#31121"
+msgid "Fanart"
+msgstr "Фанарт"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31122"
+msgid "12 seconds"
+msgstr "12 секунд"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31123"
+msgid "15 seconds"
+msgstr "15 секунд"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31124"
+msgid "20 seconds"
+msgstr "20 секунд"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31125"
+msgid "30 seconds"
+msgstr "30 секунд"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31126"
+msgid "60 seconds"
+msgstr "60 секунд"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31127"
+msgid "10 minutes"
+msgstr "10 минут""
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31128"
+msgid "Set autoscroll and time per image"
+msgstr "Установить автопрокрутку и время для изображения"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31129"
+msgid "Gradient colour"
+msgstr "Цвет градиента"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31130"
+msgid "Overlay colour"
+msgstr "Цвет наложения"
+
+#: /1080i/MusicOSD.xml
+msgctxt "#31131"
+msgid "Colour overlay"
+msgstr "Цветной оверлей"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31132"
+msgid "Foreground"
+msgstr "Передний план"
+
+#: /1080i/Includes_Labels.xml
+msgctxt "#31133"
+msgid "Waves"
+msgstr "Волны"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31134"
+msgid "Supported addons"
+msgstr "Поддерживаемые дополнения"
+
+#: /1080i/Custom_1119_EnableInfoLists.xml
+msgctxt "#31135"
+msgid "Similar"
+msgstr "Подобные"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31136"
+msgid "Music visualisation"
+msgstr "Визуализация музыки"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31137"
+msgid "Fullscreen video"
+msgstr "Полноэкранное видео"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31138"
+msgid "List items"
+msgstr "Элементы списка"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31139"
+msgid "Widgets and layout"
+msgstr "Виджеты и макет"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31140"
+msgid "Background images"
+msgstr "Фоновые изображения"
+
+msgctxt "#31141"
+msgid "YouTube"
+msgstr "YouTube"
+
+#: /1080i/MusicOSD.xml
+msgctxt "#31142"
+msgid "Scrolling text"
+msgstr "Прокрутка текста"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31143"
+msgid "Miscellaneous"
+msgstr "Разное"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31144"
+msgid "Fonts and artwork"
+msgstr "Шрифты и изображения"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31145"
+msgid "Display additional on-screen information with controls or when paused"
+msgstr "Отображать дополнительную информацию на экране с элементами управления или в режиме паузы"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31146"
+msgid "General options"
+msgstr "Общие параметры"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31147"
+msgid "Items and views"
+msgstr "Элементы и просмотры"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31148"
+msgid "Lists and other"
+msgstr "Списки и прочее"
+
+#: /1080i/Includes_View_59_Sets.xml
+msgctxt "#31149"
+msgid "Collections"
+msgstr "Коллекции"
+
+msgctxt "#31150"
+msgid "Fallback image"
+msgstr "Резервное изображение"
+
+#: /1080i/Custom_1121_EnableIndicators.xml
+msgctxt "#31151"
+msgid "Classic corner style indicators"
+msgstr "Индикаторы стиля углов"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31152"
+msgid "Viewtypes"
+msgstr "Вид отображения"
+
+#: /1080i/Custom_1117_ColorPicker.xml
+msgctxt "#31153"
+msgid "Value"
+msgstr "Значение"
+
+#: /1080i/Custom_1117_ColorPicker.xml
+msgctxt "#31154"
+msgid "Colour"
+msgstr "Цвет"
+
+#: /1080i/Includes_DialogVideoInfo.xml
+msgctxt "#31155"
+msgid "Revenue / Budget"
+msgstr "Доход / Бюджет"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31156"
+msgid "PVR Guide"
+msgstr "PVR Программа"
+
+#: /1080i/Custom_1120_EnableSearchLists.xml
+msgctxt "#31157"
+msgid "Artist's albums"
+msgstr "Альбомы артиста"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31158"
+msgid "Automatically open visualisation after starting a song"
+msgstr "Автоматически открывать визуализацию после запуска песни"
+
+#: /1080i/Includes_Labels.xml
+msgctxt "#31159"
+msgid "Video sources"
+msgstr "Источники видео"
+
+#: /1080i/Includes_Labels.xml
+msgctxt "#31160"
+msgid "Music sources"
+msgstr "Музыкальные источники"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31161"
+msgid "Supported add-ons"
+msgstr "Поддерживаемые дополнения"
+
+#: /1080i/Custom_1116_Wizard.xml
+msgctxt "#31162"
+msgid "Online ratings"
+msgstr "Онлайн рейтинги"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31163"
+msgid "Submenu items"
+msgstr "Элементы подменю"
+
+#: /1080i/Includes_DialogVideoInfo.xml
+msgctxt "#31164"
+msgid "Awards"
+msgstr "Награды"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31165"
+msgid "Lists and indicators"
+msgstr "Списки и индикаторы"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31166"
+msgid "Customise search lists"
+msgstr "Настроить списки поиска"
+
+#: /1080i/Custom_1120_EnableSearchLists.xml
+msgctxt "#31167"
+msgid "Music video artists"
+msgstr "Артисты музыкального видео"
+
+msgctxt "#31168"
+msgid "Startup video or playlist"
+msgstr "Начальное видео или плейлист"
+
+#: /1080i/Custom_1120_EnableSearchLists.xml
+msgctxt "#31169"
+msgid "Edit custom search lists"
+msgstr "Редактировать списки настраиваемого поиска"
+
+#: /1080i/Includes_DialogVideoInfo.xml
+msgctxt "#31170"
+msgid "Creator"
+msgstr "Создатель"
+
+#: /1080i/Includes_DialogVideoInfo.xml
+msgctxt "#31171"
+msgid "Filename"
+msgstr "Имя файла"
+
+#: /1080i/Includes_DialogVideoInfo.xml
+msgctxt "#31172"
+msgid "Plugin"
+msgstr "Плагин"
+
+msgctxt "#31173"
+msgid "Recently added"
+msgstr "Недавно добавленные"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31174"
+msgid "Prefer landscape art over fanart"
+msgstr "Предпочитаю горизонтальный арт фанарту"
+
+#: /1080i/Custom_1117_ColorPicker.xml
+msgctxt "#31175"
+msgid "Highlight"
+msgstr "Выделять"
+
+msgctxt "#31176"
+msgid "Delete settings shortcut"
+msgstr "Удалить ярлык настроек"
+
+msgctxt "#31177"
+msgid "Are you sure you want to remove the settings shortcut?[CR]Please ensure that you have an alternative method of accessing settings before you remove this shortcut."
+msgstr "Вы уверены, что хотите удалить ярлык настроек? [CR] Перед удалением этого ярлыка убедитесь, что у вас есть альтернативный метод доступа к настройкам"
+
+#: /1080i/Custom_1117_ColorPicker.xml
+msgctxt "#31178"
+msgid "Gradient"
+msgstr "Градиент"
+
+#: /1080i/Custom_1117_ColorPicker.xml
+msgctxt "#31179"
+msgid "Overlay"
+msgstr "Оверлей"
+
+#: /1080i/Custom_1121_EnableIndicators.xml
+msgctxt "#31180"
+msgid "Watched progress colour"
+msgstr "Цвет прогресса"
+
+msgctxt "#31181"
+msgid "Select icon"
+msgstr "Выбрать иконку"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31182"
+msgid "Additional widgets"
+msgstr "Дополнительные виджеты"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31183"
+msgid "Default widgets"
+msgstr ""Виджеты по умолчанию"
+
+#: /1080i/Custom_1142_Recommendations.xml
+msgctxt "#31184"
+msgid "Gallery"
+msgstr "Галерея"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31185"
+msgid "Recently added movies"
+msgstr "Недавно добавленные фильмы"
+
+#: /1080i/Custom_1117_ColorPicker.xml
+msgctxt "#31186"
+msgid "Gradient preview"
+msgstr "Предварительный просмотр градиента"
+
+msgctxt "#31187"
+msgid "Random albums"
+msgstr "Случайные альбомы"
+
+#: /1080i/DialogPVRChannelGuide.xml
+msgctxt "#31188"
+msgid "Now playing"
+msgstr "Сейчас играет"
+
+#: /1080i/DialogSeekBar.xml
+msgctxt "#31189"
+msgid "Seek to"
+msgstr "Искать в"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31190"
+msgid "Recently played movies"
+msgstr "Недавно просмотренные фильмы"
+
+#: /1080i/Includes_DialogVideoInfo.xml
+msgctxt "#31191"
+msgid "Press down for cast, crew, recommendations and more"
+msgstr "Нажмите на актеров, команду, рекомендации и многое другое"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31192"
+msgid "Numeric star rating"
+msgstr "Числовой рейтинг"
+
+#: /1080i/Includes_Items.xml
+msgctxt "#31193"
+msgid "Select Art (Kodi)"
+msgstr "Выбрать Арт (Kodi)"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31194"
+msgid "Recently played TV shows"
+msgstr "Недавно просмотренные сериалы"
+
+#: /1080i/Includes_Items.xml
+msgctxt "#31195"
+msgid "Select Art (Artwork Beef)"
+msgstr "Выбрать Арт (Artwork Beef)"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31196"
+msgid "In-progress TV shows"
+msgstr "Просматриваемые сериалы"
+
+#: /1080i/Includes_Items.xml
+msgctxt "#31197"
+msgid "Download all art"
+msgstr "Скачать все арты"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31198"
+msgid "Recently played episodes"
+msgstr "Недавно воспроизведенные серии"
+
+msgctxt "#31199"
+msgid "Kiosk mode (removes access to management options in information dialog)"
+msgstr "Режим киоска (закрывает доступ к параметрам управления в диалоговом окне информации)"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31200"
+msgid "Random movies"
+msgstr "Случайные фильмы"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31201"
+msgid "Simple on-screen info (hide poster and plot)"
+msgstr "Простая информация на экране (скрыть плакат и сюжет)"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31202"
+msgid "Random episodes"
+msgstr "Случайные эпизоды"
+
+msgctxt "#31203"
+msgid "Artwork"
+msgstr ""
+
+#: /1080i/Includes_Items.xml
+msgctxt "#31204"
+msgid "Refresh info"
+msgstr "Обновить информацию"
+
+#: /1080i/Includes_Items.xml
+msgctxt "#31205"
+msgid "Discart"
+msgstr "Выбросить"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31206"
+msgid "Channel numbers"
+msgstr "Номера каналов"
+
+#: /1080i/Includes_OSD.xml
+msgctxt "#31207"
+msgid "Ends"
+msgstr "Закончится"
+
+#: /1080i/Includes_View_Info.xml
+msgctxt "#31208"
+msgid "Overview"
+msgstr "Обзор"
+
+#: /1080i/Includes_Labels.xml
+msgctxt "#31209"
+msgid "Screenshot"
+msgstr "Скриншоты"
+
+#: /shortcuts/tvshows-1.DATA.xml
+msgctxt "#31210"
+msgid "In-progress"
+msgstr "Прогресс"
+
+#: /shortcuts/music-1.DATA.xml
+msgctxt "#31211"
+msgid "Recently played"
+msgstr "Недавно воспроизводимые"
+
+#: /shortcuts/tvshows-1.DATA.xml
+msgctxt "#31212"
+msgid "Random shows"
+msgstr "Случайные сериалы"
+
+#: /1080i/Includes_View_53_Seasons.xml
+msgctxt "#31213"
+msgid "Sort by"
+msgstr "Сортировать по"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31214"
+msgid "Recently added episodes"
+msgstr "Недавно добавленные серии"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31215"
+msgid "Autoscroll plot"
+msgstr "Автопрокрутка сюжета"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31216"
+msgid "In-progress movies"
+msgstr "Просматриваемые фильмы"
+
+#: /1080i/Includes_Home.xml
+msgctxt "#31217"
+msgid "Change location"
+msgstr "Изменить местоположение"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31218"
+msgid "In-progress episodes"
+msgstr "Просматриваемые эпизоды"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31219"
+msgid "Seconds"
+msgstr "Сек"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31220"
+msgid "Minute"
+msgstr "Мин"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31221"
+msgid "3 seconds"
+msgstr "3 секунды"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31222"
+msgid "Top rated TV shows"
+msgstr "Телешоу с самым высоким рейтингом"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31223"
+msgid "5 seconds"
+msgstr "5 секунд"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31224"
+msgid "1 Minute"
+msgstr "1 минута"
+
+msgctxt "#31225"
+msgid "Top rated movies"
+msgstr "Фильмы с самым высоким рейтингом"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31226"
+msgid "Select OSD timeout"
+msgstr "Выбрать тайм-аут OSD"
+
+#: /1080i/script-upnext-upnext.xml
+msgctxt "#31227"
+msgid "Up next in"
+msgstr "Следующий через"
+
+#: /1080i/script-upnext-stillwatching-simple.xml
+msgctxt "#31228"
+msgid "Continue watching in"
+msgstr "Продолжить просмотр через"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31229"
+msgid "Panels behind text"
+msgstr "Панели за текстом"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31230"
+msgid "Top rated episodes"
+msgstr "Эпизоды с самым высоким рейтингом"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31231"
+msgid "Autoclose OSD"
+msgstr "Автоскрытие OSD"
+
+#: /1080i/Includes_View_52_Posters.xml
+msgctxt "#31232"
+msgid "Posters"
+msgstr "Плакаты"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31233"
+msgid "Random TV shows"
+msgstr "Случайные сериалы"
+
+#: /1080i/Includes_View_54_Episodes.xml
+msgctxt "#31234"
+msgid "Landscape"
+msgstr "Горизонтально"
+
+#: /1080i/Includes_View_56_Hubs.xml
+msgctxt "#31235"
+msgid "Hub"
+msgstr "Хаб"
+
+msgctxt "#31236"
+msgid "Now playing..."
+msgstr "Сейчас играет ..."
+
+#: /1080i/Includes_View_51_Addons.xml
+msgctxt "#31237"
+msgid "Square"
+msgstr "Квадрат"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31238"
+msgid "Recently added albums"
+msgstr "Недавно добавленные альбомы"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31239"
+msgid "Busy animation"
+msgstr "Анимация загрузки"
+
+#: /1080i/Custom_1116_Wizard.xml
+msgctxt "#31240"
+msgid "Colour scheme"
+msgstr "Цветовая схема"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31241"
+msgid "Autowidth submenu hub buttons (disable to fix hub scrolling issues)"
+msgstr "Кнопки концентратора подменю с автоматической шириной (отключите, чтобы исправить проблемы с прокруткой концентратора)"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31242"
+msgid "Recently played albums"
+msgstr "Недавно прослушанные альбомы"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31243"
+msgid "Top 100 albums"
+msgstr "100 лучших альбомов"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31244"
+msgid "PVR channels"
+msgstr "PVR каналы"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31245"
+msgid "Display the \"Show More...\" widget item"
+msgstr "Показать элемент виджета \" Показать больше ... \""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31246"
+msgid "Submenu popup"
+msgstr "Всплывающее подменю"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31247"
+msgid "Showcase hub"
+msgstr "Витрина"
+
+#: /1080i/script-skinshortcuts.xml
+msgctxt "#31248"
+msgid "Edit shortcuts"
+msgstr "Изменить ярлыки"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31249"
+msgid "Clearart"
+msgstr "Чистый арт"
+
+#: /1080i/Custom_1120_EnableInfoButtons.xml
+msgctxt "#31250"
+msgid "Position"
+msgstr "Позиция"
+
+#: /1080i/Custom_1119_EnableInfoLists.xml
+msgctxt "#31251"
+msgid "Crew"
+msgstr "Экипаж"
+
+#: /1080i/Custom_1119_EnableInfoLists.xml
+msgctxt "#31252"
+msgid "Recommended"
+msgstr "Рекомендуется"
+
+#: /1080i/Custom_1119_EnableInfoLists.xml
+msgctxt "#31253"
+msgid "Features cast"
+msgstr "Особенности"
+
+#: /1080i/Custom_1119_EnableInfoLists.xml
+msgctxt "#31254"
+msgid "Poster gallery"
+msgstr "Галерея постеров"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31255"
+msgid "Lists and menus"
+msgstr "Списки и меню"
+
+#: /1080i/DialogKeyboard.xml
+msgctxt "#31256"
+msgid "IP"
+msgstr "IP"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31257"
+msgid "Movie genres"
+msgstr "Жанры фильмов"
+
+#: /1080i/GameOSD.xml
+msgctxt "#31258"
+msgid "Select + X"
+msgstr "Select + X"
+
+#: /1080i/GameOSD.xml
+msgctxt "#31259"
+msgid "Select + Start"
+msgstr "Select + Start"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31260"
+msgid "Movie sets"
+msgstr "Коллекция фильмов"
+
+#: /1080i/Includes_Labels.xml
+msgctxt "#31261"
+msgid "Horizontal"
+msgstr "Горизонтально"
+
+msgctxt "#31262"
+msgid "Poster"
+msgstr "Постер"
+
+#: /1080i/Includes_Labels.xml
+msgctxt "#31263"
+msgid "Vertical"
+msgstr "Вертикально"
+
+#: /1080i/Includes_Labels.xml
+msgctxt "#31264"
+msgid "Monochrome"
+msgstr "Монохромный"
+
+#: /1080i/Includes_Labels.xml
+msgctxt "#31265"
+msgid "Blur"
+msgstr "Размытие"
+
+#: /1080i/Includes_Labels.xml
+msgctxt "#31266"
+msgid "Vignette"
+msgstr "Веньетка"
+
+msgctxt "#31267"
+msgid "Action"
+msgstr "Действие"
+
+msgctxt "#31268"
+msgid "Label"
+msgstr "Лейбл"
+
+msgctxt "#31269"
+msgid "Fallback widget"
+msgstr "Резервный виджет"
+
+msgctxt "#31270"
+msgid "Video / Music"
+msgstr "Видео / Музыка"
+
+msgctxt "#31271"
+msgid "Single image"
+msgstr "Одно изображение"
+
+msgctxt "#31272"
+msgid "Multi image"
+msgstr "Несколько изображений"
+
+#: /1080i/Includes_Labels.xml
+msgctxt "#31273"
+msgid "Shadow"
+msgstr "Тень"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31274"
+msgid "TvShow genres"
+msgstr "Жанры сериалов"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31275"
+msgid "Classic hub"
+msgstr "Классический хаб"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31276"
+msgid "IMDB top 250 movies"
+msgstr "250 лучших фильмов IMDB"
+
+#: /1080i/Includes_Labels.xml
+msgctxt "#31277"
+msgid "Flat"
+msgstr "Плоский"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31278"
+msgid "Unwatched movies"
+msgstr "Непросмотренные фильмы"
+
+msgctxt "#31279"
+msgid "Video decoder"
+msgstr "Видео декодер"
+
+msgctxt "#31280"
+msgid "Pixel format"
+msgstr "Формат px"
+
+#: /1080i/Includes_View_51_Addons.xml
+msgctxt "#31281"
+msgid "Row"
+msgstr "Ряд"
+
+#: /1080i/Includes_View_51_Addons.xml
+msgctxt "#31282"
+msgid "Square row"
+msgstr "Квадратный ряд"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31283"
+msgid "Unwatched episodes"
+msgstr "Непросмотренные серии"
+
+#: /1080i/Includes_View_52_Posters.xml
+msgctxt "#31284"
+msgid "Poster row"
+msgstr "Ряд с плакатом"
+
+#: /1080i/Includes_View_53_Seasons.xml
+msgctxt "#31285"
+msgid "Landscape integrated"
+msgstr "Горизонтальная интеграция"
+
+msgctxt "#31286"
+msgid "Highlight colour"
+msgstr "Цвет выделения"
+
+#: /1080i/Includes_View_54_Episodes.xml
+msgctxt "#31287"
+msgid "Landscape row"
+msgstr "Горизонтальный ряд"
+
+#: /1080i/Includes_View_55_List.xml
+msgctxt "#31288"
+msgid "Landscape list"
+msgstr "Список альбомной ориентации"
+
+#: /1080i/Includes_View_55_List.xml
+msgctxt "#31289"
+msgid "Square list"
+msgstr "Квадратный список"
+
+#: /1080i/Includes_View_57_BigBanner.xml
+msgctxt "#31290"
+msgid "Banner row"
+msgstr "Ряд баннеров"
+
+#: /1080i/Includes_View_58_Artists.xml
+msgctxt "#31291"
+msgid "Square integrated"
+msgstr "Интегрированный квадрат"
+
+#: /1080i/Includes_View_59_Sets.xml
+msgctxt "#31292"
+msgid "Poster integrated"
+msgstr "Постер интегрирован"
+
+#: /1080i/Custom_1151_ClassicHub.xml
+msgctxt "#31293"
+msgid "Categories"
+msgstr "Категории"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31294"
+msgid "Icon only"
+msgstr "Только значок"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31295"
+msgid "Random artists"
+msgstr "Случайные исполнители"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31296"
+msgid "Movie nodes"
+msgstr "Связанные фильмы"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31297"
+msgid "TV nodes"
+msgstr "Связанные ТВ шоу"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31298"
+msgid "Submenu on left/up"
+msgstr "Подменю слева / вверх"
+
+#: /1080i/Includes_Labels.xml
+msgctxt "#31299"
+msgid "Opaque"
+msgstr "Непрозрачный"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31300"
+msgid "Music nodes"
+msgstr "Связанная музыка"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31301"
+msgid "TV shows"
+msgstr "Сериалы"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31302"
+msgid "Music sources"
+msgstr "Музыкальные источники"
+
+#: /1080i/DialogAddonInfo.xml
+msgctxt "#31303"
+msgid "Latest changes"
+msgstr "Последние изменения"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31304"
+msgid "Picture sources"
+msgstr "Источники изображений"
+
+#: /1080i/Includes_Labels.xml
+msgctxt "#31305"
+msgid "Initialising Shortcuts"
+msgstr "Инициализация ярлыков"
+
+#: /1080i/Includes_Labels.xml
+msgctxt "#31306"
+msgid "Initialising Services"
+msgstr "Инициализация служб"
+
+#: /1080i/Includes_Labels.xml
+msgctxt "#31307"
+msgid "Finished Initialising Skin"
+msgstr "Завершена инициализация темы оформления"
+
+#: /1080i/Includes_Labels.xml
+msgctxt "#31308"
+msgid "Player"
+msgstr "Плеер"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31309"
+msgid "Wait for TMDbHelper on splash screen"
+msgstr "Подождите, пока TMDbHelper появится на заставке"
+
+#: /1080i/Includes_Home.xml
+msgctxt "#31310"
+msgid "User rating"
+msgstr "Рейтинг пользователей"
+
+#: /1080i/Includes_OSD.xml
+msgctxt "#31311"
+msgid "Rate song"
+msgstr "Оценить песню"
+
+#: /1080i/Includes_View.xml
+msgctxt "#31312"
+msgid "Management"
+msgstr "Управление"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31314"
+msgid "Automatically display music video info at beginning and end of clip"
+msgstr "Автоматически отображать информацию о музыкальном видео в начале и в конце клипа"
+
+#: /1080i/Settings.xml
+msgctxt "#31343"
+msgid "PVR"
+msgstr "PVR"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31346"
+msgid "Video OSD"
+msgstr "Видео OSD"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31347"
+msgid "Music OSD"
+msgstr "Музыкальное OSD"
+
+#: /1080i/Startup.xml
+msgctxt "#31349"
+msgid "Initialising Skin"
+msgstr "Инициализация темы оформления"
+
+#: /1080i/Custom_1136_VideoInfo.xml
+msgctxt "#31356"
+msgid "years old"
+msgstr "Возраст"
+
+#: /1080i/Includes_View_Posters.xml
+msgctxt "#31358"
+msgid "Poster wall"
+msgstr "Стена постеров"
+
+#: /1080i/Includes_View_Posters.xml
+msgctxt "#31359"
+msgid "Landscape wall"
+msgstr "Горизонтальнвя стена"
+
+#: /1080i/Includes_View_Posters.xml
+msgctxt "#31360"
+msgid "Square wall"
+msgstr "Квадратная стена"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31367"
+msgid "Recently added TV shows"
+msgstr "Недавно добавленные телешоу"
+
+#: /1080i/EventLog.xml
+msgctxt "#31374"
+msgid "Order"
+msgstr "Заказ"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31377"
+msgid "Video lyrics"
+msgstr "Видео тексты песен"
+
+#: /1080i/Includes_Labels.xml
+msgctxt "#31380"
+msgid "Untitled"
+msgstr "Без названия"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31381"
+msgid "Last played channels"
+msgstr "Последние просмотренные каналы"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31382"
+msgid "Active recordings"
+msgstr "Активные записи"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31383"
+msgid "Grouped active recordings"
+msgstr "Сгруппированные активные записи"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31384"
+msgid "Grouped deleted recordings"
+msgstr "Сгруппированные удаленные записи"
+
+#: /1080i/Includes_Topbar.xml
+msgctxt "#31391"
+msgid "Page"
+msgstr "Страница"
+
+#: /1080i/Includes_Items.xml
+msgctxt "#31395"
+msgid "Music playlist"
+msgstr "Музыкальный плейлист"
+
+#: /1080i/Includes_Items.xml
+msgctxt "#31396"
+msgid "Video playlist"
+msgstr "Видео плейлист"
+
+#: /1080i/Includes_Items.xml
+msgctxt "#31408"
+msgid "Subtitle settings"
+msgstr "Настройки субтитров"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31409"
+msgid "Subtitles button opens subtitle settings"
+msgstr "Кнопка субтитров открывает настройки субтитров"
+
+#: /1080i/DialogPVRChannelManager.xml
+msgctxt "#31412"
+msgid "Apply"
+msgstr "Применить"
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31422"
+msgid "Live TV / PVR"
+msgstr "ТВ / PVR"
+
+#: /1080i/Includes_View.xml
+msgctxt "#31428"
+msgid "Loading"
+msgstr "Загрузка"
+
+#: /shortcuts/overrides.xml
+msgctxt "#31429"
+msgid "Submenu hub"
+msgstr "Подменю"
+
+#: /1080i/script-skin_helper_service-ColorPicker.xml
+msgctxt "#31433"
+msgid "Switch palette"
+msgstr "Переключить палитру"
