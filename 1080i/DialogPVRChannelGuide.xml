@@ -1,145 +1,168 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- Foundation -->
 <window>
     <defaultcontrol always="true">11</defaultcontrol>
-    <controls>
-        <control type="progress" id="9911">
-            <visible>false</visible>
-            <info>Container(11).ListItem.Progress</info>
-        </control>
-        <control type="progress" id="9912">
-            <visible>false</visible>
-            <info>Container(11).ListItem(1).Progress</info>
-        </control>
-        <control type="group">
-            <left>view_pad</left>
-            <right>view_pad</right>
-            <top>view_pad</top>
-            <bottom>view_pad</bottom>
 
+    <controls>
+
+        <control type="group">
+            <animation effect="slide" start="-668" end="0" time="150" tween="quadratic">Visible</animation>
+            <animation effect="slide" start="-668" end="0" time="150" tween="quadratic">WindowOpen</animation>
+            <animation effect="slide" end="-668" start="0" time="150" tween="quadratic">Hidden</animation>
+            <animation effect="slide" end="-668" start="0" time="150" tween="quadratic">WindowClose</animation>
             <control type="group">
-                <left>0</left>
-                <width>227</width>
-                <height>227</height>
-                <bottom>0</bottom>
+                <left>-1</left>
+                <top>-1</top>
+                <width>668</width>
+                <height>1082</height>
                 <control type="image">
+                    <include condition="!Skin.HasSetting(DisableShadows)">Defs_Shadow_24</include>
                     <texture colordiffuse="panel_bg" border="10">common/box.png</texture>
                 </control>
                 <control type="image">
-                    <aspectratio>keep</aspectratio>
-                    <bordersize>20</bordersize>
-                    <texture background="true">$INFO[ListItem.Icon]</texture>
+                    <width>1</width>
+                    <right>0</right>
+                    <texture colordiffuse="panel_bg" border="10">common/box.png</texture>
+                </control>
+                <control type="image">
+                    <width>1</width>
+                    <right>-1</right>
+                    <texture colordiffuse="panel_bg" border="10">common/box.png</texture>
                 </control>
             </control>
+            <control type="image">
+                <posx>498</posx>
+                <posy>28</posy>
+                <width>128</width>
+                <height>64</height>
+                <aspectratio align="right">keep</aspectratio>
+                <texture>$INFO[Player.Art(thumb)]</texture>
+            </control>
+            <control type="label">
+                <left>33</left>
+                <top>10</top>
+                <width>400</width>
+                <align>left</align>
+                <textcolor>main_fg_100</textcolor>
+                <font>font_medium_bold</font>
+                <height>66</height>
+                <label>$INFO[VideoPlayer.ChannelName]</label>
+            </control>
+            <control type="label">
+                <left>33</left>
+                <top>43</top>
+                <width>400</width>
+                <align>left</align>
+                <textcolor>main_fg_70</textcolor>
+                <font>font_tiny_bold</font>
+                <height>70</height>
+                <label>$INFO[Container(11).ListItem.StartDate]</label>
+            </control>
 
-            <control type="wraplist" id="11">
-                <left>231</left>
-                <width>1533</width>
-                <bottom>0</bottom>
-                <height>231</height>
-                <orientation>horizontal</orientation>
-                <focusposition>0</focusposition>
-                <movement>0</movement>
-                <itemlayout width="766.5" height="231">
-                    <control type="group">
-                        <width>762.5</width>
-                        <top>4</top>
-                        <bottom>0</bottom>
-                        <control type="image">
-                            <texture colordiffuse="panel_bg" border="10">common/box.png</texture>
-                        </control>
-                        <control type="group">
-                            <left>30</left>
-                            <right>30</right>
-                            <top>25</top>
-                            <bottom>25</bottom>
-                            <control type="label">
-                                <font>font_button</font>
-                                <aligny>top</aligny>
-                                <textcolor>panel_fg_100</textcolor>
-                                <selectedcolor>panel_fg_100</selectedcolor>
-                                <label>$LOCALIZE[31188]</label>
-                                <visible>Integer.IsGreater(Control.GetLabel(9912),0) + Integer.IsLess(Control.GetLabel(9912),100)</visible>
-                            </control>
-                            <control type="label">
-                                <font>font_button</font>
-                                <aligny>top</aligny>
-                                <textcolor>panel_fg_100</textcolor>
-                                <selectedcolor>panel_fg_100</selectedcolor>
-                                <label>$INFO[ListItem.StartDate]</label>
-                                <visible>!Integer.IsGreater(Control.GetLabel(9912),0) | !Integer.IsLess(Control.GetLabel(9912),100)</visible>
-                            </control>
-                            <control type="label">
-                                <font>font_title_small</font>
-                                <top>40</top>
-                                <aligny>top</aligny>
-                                <textcolor>panel_fg_100</textcolor>
-                                <selectedcolor>panel_fg_100</selectedcolor>
-                                <visible>!String.IsEmpty(ListItem.Title)</visible>
-                                <label>$INFO[ListItem.Title]</label>
-                            </control>
-                            <control type="label">
-                                <font>font_title_small</font>
-                                <top>40</top>
-                                <aligny>top</aligny>
-                                <textcolor>panel_fg_100</textcolor>
-                                <selectedcolor>panel_fg_100</selectedcolor>
-                                <visible>String.IsEmpty(ListItem.Title)</visible>
-                                <label>$INFO[ListItem.Label]</label>
-                            </control>
-                            <control type="progress">
-                                <top>110</top>
-                                <height>12</height>
-                                <visible>ListItem.HasEpg</visible>
-                                <info>ListItem.Progress</info>
-                                <texturebg colordiffuse="panel_fg_12" border="4">diffuse/progress-bg.png</texturebg>
-                                <visible>!Integer.IsEqual(Control.GetLabel(9912),0)</visible>
-                            </control>
-                            <control type="image">
-                                <top>110</top>
-                                <height>12</height>
-                                <visible>ListItem.HasEpg</visible>
-                                <texture colordiffuse="panel_fg_12" border="4">diffuse/progress-bg.png</texture>
-                                <visible>Integer.IsEqual(Control.GetLabel(9912),0)</visible>
-                            </control>
-                            <control type="label">
-                                <font>font_tiny</font>
-                                <top>140</top>
-                                <aligny>top</aligny>
-                                <textcolor>panel_fg_100</textcolor>
-                                <selectedcolor>panel_fg_100</selectedcolor>
-                                <label>$INFO[ListItem.Genre]</label>
-                            </control>
-                            <control type="label">
-                                <font>font_tiny</font>
-                                <top>140</top>
-                                <aligny>top</aligny>
-                                <align>right</align>
-                                <textcolor>panel_fg_100</textcolor>
-                                <selectedcolor>panel_fg_100</selectedcolor>
-                                <label>$INFO[ListItem.StartTime]$INFO[ListItem.EndTime, - ,]</label>
-                            </control>
-                        </control>
+            <control type="fixedlist" id="11">
+                <left>0</left>
+                <top>120</top>
+                <height>980</height>
+                <width>667</width>
+                <focusposition>1</focusposition>
+                <movement>6</movement>
+                <orientation>vertical</orientation>
+                <itemlayout height="120" width="667">
+                    <control type="image">
+                        <width>667</width>
+                        <height>109</height>
+                        <texture>common/selected.png</texture>
+                        <aspectratio aligny="top">center</aspectratio>
+                        <animation effect="fade" start="100" end="10" condition="true">Conditional</animation>
+                        <visible>String.IsEqual(ListItem.Title,VideoPlayer.Title) + String.IsEqual(ListItem.ChannelNumberLabel,VideoPlayer.ChannelNumberLabel) + String.IsEqual(ListItem.EndTime,VideoPlayer.EndTime)</visible>
+                    </control>
+                    <control type="image">
+                        <centertop>54</centertop>
+                        <centerright>64</centerright>
+                        <width>128</width>
+                        <height>128</height>
+                        <texture>special://skin/extras/icons/timer.png</texture>
+                        <colordiffuse>main_fg_70</colordiffuse>
+                        <visible>ListItem.HasTimer | ListItem.IsRecording</visible>
+                        <aspectratio aligny="center" align="center">keep</aspectratio>
+                    </control>
+                    <control type="label">
+                        <left>30</left>
+                        <top>5</top>
+                        <width>400</width>
+                        <height>70</height>
+                        <align>left</align>
+                        <textcolor>main_fg_70</textcolor>
+                        <font>font_small_bold</font>
+                        <label>$INFO[ListItem.Title]</label>
+                        <selectedcolor>main_fg_70</selectedcolor>
+                    </control>
+                    <control type="label">
+                        <left>30</left>
+                        <top>40</top>
+                        <height>66</height>
+                        <width>400</width>
+                        <align>left</align>
+                        <font>font_small</font>
+                        <textcolor>main_fg_70</textcolor>
+                        <label>$INFO[ListItem.StartTime]</label>
+                        <selectedcolor>main_fg_70</selectedcolor>
                     </control>
                 </itemlayout>
-                <focusedlayout width="766.5" height="231">
-                    <control type="group">
-                        <width>762.5</width>
-                        <top>4</top>
-                        <bottom>0</bottom>
-                        <control type="image">
-                            <texture colordiffuse="panel_bg" border="10">common/box.png</texture>
-                        </control>
-                        <control type="group">
-                            <left>30</left>
-                            <right>30</right>
-                            <top>25</top>
-                            <bottom>25</bottom>
-                            <control type="label">
-                                <font>font_button</font>
-                                <aligny>top</aligny>
-                                <textcolor>panel_fg_100</textcolor>
-                                <selectedcolor>panel_fg_100</selectedcolor>
-                                <label>$LOCALIZE[31188]</label>
+                <focusedlayout height="120" width="667">
+                    <control type="image">
+                        <width>667</width>
+                        <height>109</height>
+                        <texture colordiffuse="$VAR[ColorHighlight]">common/white.png</texture>
+                    </control>
+                    <control type="image">
+                        <width>667</width>
+                        <height>109</height>
+                        <texture>common/selected.png</texture>
+                        <aspectratio aligny="top">center</aspectratio>
+                        <animation effect="fade" start="100" end="30" condition="true">Conditional</animation>
+                        <visible>String.IsEqual(ListItem.Title,VideoPlayer.Title) + String.IsEqual(ListItem.ChannelNumberLabel,VideoPlayer.ChannelNumberLabel) + String.IsEqual(ListItem.EndTime,VideoPlayer.EndTime)</visible>
+                    </control>
+                    <control type="image">
+                        <centertop>54</centertop>
+                        <centerright>64</centerright>
+                        <width>128</width>
+                        <height>128</height>
+                        <texture>special://skin/extras/icons/timer.png</texture>
+                        <colordiffuse>Selected</colordiffuse>
+                        <visible>ListItem.HasTimer | ListItem.IsRecording</visible>
+                        <aspectratio aligny="center" align="center">keep</aspectratio>
+                    </control>
+                    <control type="label">
+                        <left>30</left>
+                        <top>5</top>
+                        <height>66</height>
+                        <width>400</width>
+                        <align>left</align>
+                        <textcolor>Selected</textcolor>
+                        <font>font_small_bold</font>
+                        <label>$INFO[ListItem.Title]</label>
+                        <selectedcolor>Selected</selectedcolor>
+                    </control>
+                    <control type="label">
+                        <left>30</left>
+                        <top>40</top>
+                        <height>66</height>
+                        <width>400</width>
+                        <align>left</align>
+                        <font>font_small</font>
+                        <textcolor>Selected</textcolor>
+                        <label>$INFO[ListItem.StartTime]</label>
+                        <selectedcolor>Selected</selectedcolor>
+                    </control>
+                </focusedlayout>
+
+            </control>
+        </control>
+    </controls>
+
+</window>
+ng</label>
                                 <visible>Integer.IsGreater(Control.GetLabel(9911),0) + Integer.IsLess(Control.GetLabel(9911),100)</visible>
                             </control>
                             <control type="label">
